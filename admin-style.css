@@ -1,0 +1,20 @@
+.wrap fieldset {
+    margin-bottom: 40px;
+}
+
+.wrap fieldset label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.wrap fieldset.images label {
+    margin-bottom: 20px;
+}
+
+.wrap fieldset img {
+    vertical-align: middle;
+}
+
+#shortcode {
+    width: 300px;
+}
